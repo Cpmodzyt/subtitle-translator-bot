@@ -24,7 +24,7 @@ Mozilla Public License for more details.
 #### The Legacy Way
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Cpmodzyt/SubtitleTranslator-Bot
+git clone https://github.com/Cpmodzyt/subtitle-translator-bot
 
 cd SubtitleTranslator-Bot
 
